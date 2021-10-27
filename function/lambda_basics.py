@@ -222,7 +222,7 @@ def usage_demo():
     print(f"Deleted role {lambda_role_name}.")
     delete_lambda_function(lambda_client, lambda_function_name)
     print(f"Deleted function {lambda_function_name}.")
-    print("Thanks for watching!")
+    print("Thanks for watching! again")
 
 
 if __name__ == '__main__':
